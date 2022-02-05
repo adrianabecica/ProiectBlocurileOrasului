@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1589134893 source:c:\users\adriana\desktop\becica_adriana-mihaela_cod_sursa\bloc.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	"bloc.h"
+
+1589134893 c:\users\adriana\desktop\becica_adriana-mihaela_cod_sursa\bloc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<conio.h>
+
+1589134893 source:c:\users\adriana\desktop\becica_adriana-mihaela_cod_sursa\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	"bloc.h"
+
+1589134893 source:c:\users\adriana\desktop\pclp2\becica_adriana-mihaela_cod_sursa\bloc.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	"bloc.h"
+
+1589134893 c:\users\adriana\desktop\pclp2\becica_adriana-mihaela_cod_sursa\bloc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<conio.h>
+
+1589134893 source:c:\users\adriana\desktop\pclp2\becica_adriana-mihaela_cod_sursa\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	"bloc.h"
+
+1589134893 source:d:\anul 1 facultate\semestrul 2 anul 1\pclp2\becica_adriana-mihaela_cod_sursa\bloc.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	"bloc.h"
+
+1589134893 d:\anul 1 facultate\semestrul 2 anul 1\pclp2\becica_adriana-mihaela_cod_sursa\bloc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<conio.h>
+
+1589134893 source:d:\anul 1 facultate\semestrul 2 anul 1\pclp2\becica_adriana-mihaela_cod_sursa\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	"bloc.h"
+
